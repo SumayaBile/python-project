@@ -1,0 +1,10 @@
+# Ignore system folders
+AppData/
+Cookies/
+Documents/
+LocalSettings/
+My Documents/
+Temporary Internet Files/
+Recent/
+*.log  # Ignore log files
+*.pyc  # Ignore Python bytecode files
