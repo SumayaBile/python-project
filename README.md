@@ -1,4 +1,5 @@
-#"""Cats_Analyst"""
+#       **Cats_Analyst**
+
 Cats_Analyst is a Python-based data analysis project focused on understanding key statistics about cats based on a dataset. The project uses a JSON file containing various attributes of different cats, such as their weight and life span. This data is processed and analyzed to extract meaningful insights, such as the average cat weight and life span. Additionally, the project generates a word cloud to visually represent the most frequent words in the dataset.
 
 Project Overview
@@ -16,4 +17,4 @@ Modular Code: Easily adaptable for further analysis or additional features.
 Datasets Used
 The project uses the following dataset:
 
-cats.json: A JSON file containing data about various cats, such as their weight, life span, and other attributes. This dataset is essential for analyzing and calculating statistics.
+cats.json: A JSON file containing data about various cats, such as their weight, life span, and other attributes. This dataset is essential for analyzing and calculating statistics
